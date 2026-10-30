@@ -1,0 +1,10 @@
+{
+  "name": "openclaw-genpark-lead-nexus",
+  "version": "1.0.0",
+  "description": "OpenClaw GenPark Lead Nexus - Graph PageRank influence and Adamic-Adar enterprise relationship engine with champion mobility conversion prediction.",
+  "tools": [
+    "calculate_pagerank_influence",
+    "predict_adamic_adar_links",
+    "evaluate_champion_mobility"
+  ]
+}
